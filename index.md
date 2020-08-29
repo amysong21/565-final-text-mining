@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## STOR 565 Final Project
 
 You can use the [editor on GitHub](https://github.com/amysong21/565-final-text-mining.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+We should be able to edit this how ever we want!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
